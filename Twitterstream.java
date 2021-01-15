@@ -22,10 +22,10 @@ public class Twitterstream {
     	
     	//set consumerkey and consumer secret along with access token and secret access token
     	//these are used to connect to my twitter stream where I can access tweets
-    	final String consumerKey = "yc1CMGxUPhf4uVg31dBF7gYko";
-        final String consumerSecret = "Uw2mVZI8tQXdqq9a40xI9HFkkF3heuMwpd2adFWNSYTP6iK7VP";
-        final String accessToken = "493983787-yP6HQ4BUWFvVC90sXPpDG5uRXDugnKed6jDVV0HD";
-        final String accessTokenSecret = "3I53ie1ClyRjtyXXdoQHCUI9scuzcNgsdqSC8boSpjmUj";
+    	final String consumerKey = "";// enter private key here
+        final String consumerSecret = "";// enter private key here
+        final String accessToken = "";// enter private key here
+        final String accessTokenSecret = "";// enter private key here
 
       
         //Spark configureation file using 2 local disks and named Tweet Streamer
